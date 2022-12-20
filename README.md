@@ -6,7 +6,8 @@
 + Instal Node Dependencies
 + Start Node App
 + Start React App
++ Password should be atleast 6 digits
 
 
-## Watch it on [Youtube](https://www.youtube.com/watch?v=HgaJW2I4Mbk)
+
 
